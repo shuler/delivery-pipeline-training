@@ -8,7 +8,7 @@ before_script:
 script:
 - source env.sh && npm run test
 notifications:
-  slack: aitem:kfjTXFxdFQxyBbAJ0UtYVqOe
+  slack: aitem:nDUQ4XTKW6m9VrTW89ByLxtA
 deploy:
   app: vast-cove-62697
   provider: heroku
