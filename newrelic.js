@@ -8,7 +8,7 @@ exports.config = {
   /**
    * Array of application names.
    */
-  app_name: ['shuler`s app'],
+  app_name: ['vast-cove-62697'],
   /**
    * Your New Relic license key.
    */
